@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandoval-williamj
 - 👀 I’m interested in expanding my knowledge of various coding languages.
-- 🌱 I’m currently learning material related to my field of study, Computer Engineering.
+- 🌱 I’m currently learning material related to my field of study, Computer Engineering (Major) & Computer Science (Minor).
 - 💞️ I’m looking to collaborate with new people in group projects!
 - 📫 How to reach me:
    Email-sandoval.williamj@pitt.edu
